@@ -21,3 +21,11 @@ This project performs exploratory data analysis (EDA) on a dataset of Amazon pro
 
 
 
+## Dataset Source
+
+This dataset was sourced from Kaggle and contains information about Amazon product ratings and reviews.
+
+Original Kaggle Dataset: [Amazon Sales Dataset](https://www.kaggle.com/datasets/)  
+All credits go to the original uploader on Kaggle.
+
+Note: The data represents publicly available product details from the official Amazon website.
