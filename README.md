@@ -5,13 +5,10 @@ This project explores a dataset of Amazon products to analyze sales trends, prod
 ---
 ## Business Statement 
 
-Identify top-performing and underperforming product categories
-
-Analyze the impact of discounts on sales and ratings
-
-Discover low-rated and low-engagement products
-
-Offer actionable insights for inventory, marketing, and quality control
+-Identify top-performing and underperforming product categories
+-Analyze the impact of discounts on sales and ratings
+-Discover low-rated and low-engagement products
+-Offer actionable insights for inventory, marketing, and quality control
 
 
 
@@ -22,27 +19,18 @@ Offer actionable insights for inventory, marketing, and quality control
 ---
 
 ## Key Insights
-
-Electronics accessories like USB cables and earphones dominate both sales and ratings.
-
-High discounts do not guarantee high sales — other factors like brand or reviews matter more.
-
-Most products are rated 4.0+ — showing general customer satisfaction.
-
-Least-rated products are concentrated in budget electronics and small appliances.
-
-Least-selling products may require marketing, visibility, or quality fixes.
+-Electronics accessories like USB cables and earphones dominate both sales and ratings.
+-High discounts do not guarantee high sales — other factors like brand or reviews matter more.
+-Most products are rated 4.0+ — showing general customer satisfaction.
+-Least-rated products are concentrated in budget electronics and small appliances.
+-Least-selling products may require marketing, visibility, or quality fixes.
 
 ## Visuals Included
-Discount distribution & category-wise discounts
-
-Rating vs. Sales scatterplots
-
-Category-wise average ratings
-
-Least-rated and least-selling product charts
-
-Heatmap of rating vs. discount by product category
+-Discount distribution & category-wise discounts
+-Rating vs. Sales scatterplots
+-Category-wise average ratings
+-Least-rated and least-selling product charts
+-Heatmap of rating vs. discount by product category
 
 ## Dataset Source
 
