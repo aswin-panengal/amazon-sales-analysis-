@@ -1,9 +1,19 @@
 # amazon-sales-analysis
 # Amazon Sales Data Analysis
 
-This project performs exploratory data analysis (EDA) on a dataset of Amazon product sales. The goal is to uncover insights from sales volume, ratings, discount patterns, and category-wise performance.
-
+This project explores a dataset of Amazon products to analyze sales trends, product ratings, discounts, and category-wise performance. The objective is to extract business insights that can help e-commerce sellers optimize product listings, pricing, and customer satisfaction.
 ---
+## Business Statement 
+
+Identify top-performing and underperforming product categories
+
+Analyze the impact of discounts on sales and ratings
+
+Discover low-rated and low-engagement products
+
+Offer actionable insights for inventory, marketing, and quality control
+
+
 
 ## Dataset
 - Product-level data including `category`, `sales`, `rating`, `discount_percentage`, etc.
@@ -13,13 +23,26 @@ This project performs exploratory data analysis (EDA) on a dataset of Amazon pro
 
 ## Key Insights
 
-- **Top Categories by Sales:** Dominated by Electronics and Computer Accessories.
-- **Sales vs Discounts:** Higher discounts often drive up sales.
-- **Ratings Distribution:** Most products are rated between 4.0–4.5.
-- **Category-wise Ratings:** USB and HDMI cables maintain consistent high ratings.
-- **Heatmap Insight:** Some high-rated products also have high discounts (e.g., Cord Management).
+Electronics accessories like USB cables and earphones dominate both sales and ratings.
 
+High discounts do not guarantee high sales — other factors like brand or reviews matter more.
 
+Most products are rated 4.0+ — showing general customer satisfaction.
+
+Least-rated products are concentrated in budget electronics and small appliances.
+
+Least-selling products may require marketing, visibility, or quality fixes.
+
+## Visuals Included
+Discount distribution & category-wise discounts
+
+Rating vs. Sales scatterplots
+
+Category-wise average ratings
+
+Least-rated and least-selling product charts
+
+Heatmap of rating vs. discount by product category
 
 ## Dataset Source
 
